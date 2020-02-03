@@ -1,4 +1,4 @@
-let x = 102;
+let x = 0;
 if ((x % 3 == 0) && (x != 0)) {
     console.log('Broj_je deljiv sa 3')
 } 
