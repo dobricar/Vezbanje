@@ -1,6 +1,6 @@
-let cost = 60;
+let cost = 200;
 let euro = 200;
-if (cost - euro >= 0) {
+if (cost - euro > 0) {
     console.log('Nemate dovoljno novca','Trenutno stanje','(ostaje isto)')
 }
 else
